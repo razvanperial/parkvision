@@ -6,7 +6,7 @@ Web application that is made to illustrate the functionality of a smart parking 
 - Users can input data such as the time of leave and the parking place they are in, so that other users can have an idea of when a specific parking slot could be available.
 - Every parking lot information is taken from a camera mounted on a post with vision over the entire space.
 
-###Technologies being used:
+### Technologies being used:
 - Flutter Dart 
 - Firebase Hosting
 - OpenCV
